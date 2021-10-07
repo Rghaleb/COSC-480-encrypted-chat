@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "495564261972",
+    "project_id": "encryption-chat-message-app",
+    "storage_bucket": "encryption-chat-message-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495564261972:android:1f2dcc55d8e149e4b8bbc1",
+        "android_client_info": {
+          "package_name": "com.example.encryptionchatmessageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495564261972-ou49em0ji54pl1v6a3mjfnl5u214i0c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.encryptionchatmessageapp",
+            "certificate_hash": "f17902d385bc9f879cbb226d0d32bb114484caad"
+          }
+        },
+        {
+          "client_id": "495564261972-kqnc47l4e6fvkkq7529md0lnh9fl6e0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHxFxi_u86iPcvA7AO2UgK5j9EC9tsN2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495564261972-kqnc47l4e6fvkkq7529md0lnh9fl6e0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
